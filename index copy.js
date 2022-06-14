@@ -1,4 +1,4 @@
-import falas from './falas.json' assert {type: 'json'};
+import falas from './config.js';
 
 const clock=document.querySelector("#clock");function getClock(){const t=new Date;const e=String(t.getHours()).padStart(2,"0");const c=String(t.getMinutes()).padStart(2,"0");clock.innerText=`${e}:${c}`}getClock();setInterval(getClock,1e3);
 
