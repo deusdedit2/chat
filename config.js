@@ -1,5 +1,5 @@
 export default {
-        "nome":"Júlia Oliveira",
+        "nome":"Júlia Oliveiraa",
         "pfp": "https://cdn-fkhhj.nitrocdn.com/NzMSCVGYZwagaJhSsXsFxknVljZFRtCf/assets/static/optimized/5a/29/72ef4d47d5dc1dbfddafa4843da7f5be.CgzWoRN0_t.jpg",
         "tempo": 2200,
         "temporesposta": 2700,
